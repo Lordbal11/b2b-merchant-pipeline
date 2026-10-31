@@ -1,0 +1,10 @@
+npx ngrok config add-authtoken [cr_3EMZezY44TQ72kHGCSRC9lEUoOX]
+
+npx ngrok config add-authtoken 3GpOwuxmzLXRoCczb2E8jKIrDsr_6HBtz2Cq3EtgD7xts3fqP
+                                  
+
+
+ 3GpOwuxmzLXRoCczb2E8jKIrDsr_6HBtz2Cq3EtgD7xts3fqP  
+
+
+WMPQQCQSS2NPQCKDA3C9TZ1H
